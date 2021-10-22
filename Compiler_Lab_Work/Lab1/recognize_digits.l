@@ -6,7 +6,7 @@
 digit [0-9]
 
 %%
-{digit} {printf("This contains digit");};
+{digit}+ {printf("This contains digit");};
 .+ {printf("Not a digit");};
 
 %%
