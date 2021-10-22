@@ -164,4 +164,12 @@ Problem 7.2: Lex program to count number of lexemes in input file.
                           No. of fractions=0
                           No. of operators=4
             
- 
+ Lab 8:
+  
+ Problem 8.1: Sample YACC Program.
+   
+              Sample Input: hi
+              Sample Output: Hello world
+              
+              Sample Input: bye
+              Sample Output: Bye world
