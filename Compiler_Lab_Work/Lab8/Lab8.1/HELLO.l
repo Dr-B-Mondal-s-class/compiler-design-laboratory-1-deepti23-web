@@ -7,8 +7,8 @@ int yyerror(char *errormsg);
 
 %%
 
-("hi"|"oi")"\n"       { return HI;  }
-("tchau"|"bye")"\n"   { return BYE; }
+("hi")"\n"       { return HI;  }
+("bye")"\n"   { return BYE; }
 .                     { yyerror("Unknown char");  }
 
 %%
