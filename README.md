@@ -173,3 +173,24 @@ Problem 7.2: Lex program to count number of lexemes in input file.
               
               Sample Input: bye
               Sample Output: Bye world
+
+ Problem 8.2- Write a program using Lex and YACC to check whether a string is palindrome or not.
+
+            Sample Input: aabbaa
+            Sample Output: palindrome
+            
+            Sample Input: abc
+            Sample Output: Not palindrome 
+            
+Lab 9:
+
+Problem 9.1 - Write a program using Lex and YACC which accept strings that starts and ends with 0 or 1.
+
+            Sample Input: 1000
+            Sample Output: 1000 is a valid string
+            
+            Sample Input: 3332
+            Sample Output: 3332 is an invalid string.
+            
+            
+            
